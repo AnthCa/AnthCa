@@ -4,7 +4,7 @@
 I’m Anthony Canales from Chile 😃. I have worked for 5 years in developing WordPress sites, focusing on the frontend. Recently, I’ve been learning React and its entire ecosystem to transition to this new stack. I love coffee, mechanical keyboards, and learning new technologies.
 
 <div> 
- <a href="https://www.linkedin.com/in/anthony-canales-ampuero-157928114/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/anthony-canales-ampuero-157928114/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href = "mailto:anthony.code8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
